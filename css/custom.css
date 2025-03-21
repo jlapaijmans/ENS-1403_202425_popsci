@@ -114,7 +114,7 @@ ol li {
     display: flex;
     width: 100%;
     height: 100%;
-    gap: 3rem; /* Space between the columns */
+    gap: 2rem; /* Space between the columns */
 }
 
 

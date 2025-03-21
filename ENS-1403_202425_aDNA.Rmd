@@ -115,43 +115,36 @@ include_graphics("./img/big_bone.jpg")
 ```
 
 
-## Allows study of extinct species
+## Allows study of extinct species!
 
-```{r, out.height = 500, fig.align='center'}
+```{r, out.height = 500, fig.align='center', fig.cap="*Glyptodont, WolfmanSF, CC BY_SA 3.0*"}
 include_graphics("./img/extinct.png")
 ```
-
-<p style="text-align: right;"><font size="3">*Glyptodont, WolfmanSF, CC BY_SA 3.0*</font></p>
 
 
 ## After thousands of years, most DNA is lost
 
-```{r, out.height = 400, fig.align='center'}
+```{r, out.height = 480, fig.align='center', fig.cap="*Zátonyi Sándor, CC BY-SA 3.0*"}
 include_graphics("./img/Medvebarlang04.jpg")
 ```
-
-<p style="text-align: right;"><font size="3">*Zátonyi Sándor, CC BY-SA 3.0*</font></p>
 
 
 ## This makes the work contamination sensitive
 
-```{r, out.height = 500, fig.align='center'}
+```{r, out.height = 480, fig.align='center', fig.cap="*Copyright Karla Fritze, Potsdam University*"}
 include_graphics("./img/sina_lab.jpg")
 ```
 
-<p style="text-align: right;"><font size="3">*Copyright Karla Fritze, Potsdam University*</font></p>
 
 ## But the samples are already contaminated {.white-slide}
 
-```{r, out.width = "60%", fig.width = 6, fig.height = 5, dpi = 600, fig.align = "center"}
+```{r, out.width = "60%", fig.width = 6, fig.height = 5, dpi = 600, fig.align = "center", fig.cap="*Data from Noonan et al. 2005. Science*"}
 par(mar=c(0,0,0,6))
 my_slices <- c(1.1,14.4,0.73,17.3,66.52)
 my_lab <- c("CAVE BEAR", "Prokaryotes", "other Eukaryotes", "undet. environmental", "unknown")
 pie(my_slices, labels = my_lab, col=brewer.pal(6, "Set1"), cex=1.7)
 
 ```
-
-<p style="text-align: right;"><font size="3">*Data from Noonan et al. 2005. Science*</font></p>
 
 
 # Sabretooth cats
@@ -171,45 +164,42 @@ include_graphics("./img/sabretooths.svg")
 
 
 
-## *Smilodon* {.columns-2}
+## *Smilodon* {.flex-cols}
 
 - The most commonly known group
 - Massive canines
 - Up to 400 kg and 120 cm shoulder height
 - N and S America
 - 3 species, *S. gracilis, S. populator, S. fatalis*
-- Extinction 10 ka
+- Extinction 10 Ka ("Kilo annum")
 
+<br>
 
+<div style="height: 50px;"></div>
 
-```{r, out.width = "100%", fig.align='center', fig.cap="*Sergiodlarosa, CC BY-SA 3.0*"}
+```{r, out.width = 400, fig.align='center', fig.cap="*Sergiodlarosa, CC BY-SA 3.0*"}
 include_graphics("./img/Smilodon_fatalis_Sergiodlarosa.jpg")
 ```
 
 
-## *Homotherium* {.columns-2}
+## *Homotherium* {.flex-cols}
 
 - Less known group
 - Also known as scimitar-toothed cats
 - Flat, serrated canines
 - ~ 200 kg and 110 cm shoulder height
 - Europe, Africa, N and S America
-- Pleistocene Europe: *H. latidens*, extinction 300 ka
-- Pleistocene N. America: *H. serum*, extinction 12 ka
+- Pleistocene Europe: *H. latidens*, extinction 300 Ka
+- Pleistocene N. America: *H. serum*, extinction 12 Ka
 
+<br>
 
-```{r, out.width = "100%", fig.align='center', fig.cap="*Sergiodlarosa, CC BY-SA 3.0*"}
+<div style="height: 50px;"></div>
+
+```{r, out.width = 400, fig.align='center', fig.cap="*Sergiodlarosa, CC BY-SA 3.0*"}
 include_graphics("./img/Homotherium_serum.jpg")
 ```
 
-
-## *Homotherium* skull
-
-```{r, out.height = 500, fig.align='center'}
-include_graphics("./img/Homotherium_crenatidens_skull_45.jpg")
-```
-
-*Ghedoghedo, CC BY-SA 4.0*
 
 ## Pleistocene sabretooth cats
 
@@ -378,7 +368,7 @@ include_graphics("./img/sabre_tree.svg")
 - North American and European *Homotherium* were genetically similar
 - We recommended they be treated as a single species, *H. latidens*
 
-```{r, out.width = "45%", fig.align='right'}
+```{r, out.width = "35%", fig.align='right'}
 include_graphics("./img/smilodon1.png")
 ```
 
@@ -401,7 +391,7 @@ include_graphics("./pdf/Paijmans et al. - 2017.pdf")
 
 <div style="height: 130px;"></div>
 
-```{r, out.width = "45%", fig.align='right'}
+```{r, out.width = "40%", fig.align='right'}
 include_graphics("./img/smilodon2.png")
 ```
 
