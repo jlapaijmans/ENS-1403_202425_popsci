@@ -226,7 +226,7 @@ include_graphics("./img/Doggerland.svg")
 include_graphics("./img/NS_Homo.png")
 ```
 
-...this didn't look like a 300 ka fossil!
+<center>→ This didn't look like a 300 Ka fossil!</center>
 
 
 ## Dating of the Dutch North Sea *Homotherium*
@@ -288,7 +288,7 @@ include_graphics("./img/hybr.svg")
 ```
 
 
-<p style="font-size: 33px;">***→ \*Of course this only works if you know the sequence in advance! ***</p>
+<p style="font-size: 30px;">***→ \*Of course this only works if you know the sequence in advance! ***</p>
 
 
 ## Mistaken identity {.columns-2}
