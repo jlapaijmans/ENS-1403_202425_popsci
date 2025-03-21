@@ -318,7 +318,9 @@ include_graphics("./img/NA_Homo.png")
 > - *Homotherium* sequences grand total = 
 > - 12,050,089 &nbsp;&nbsp;&nbsp; 🎉
 
+<div style="height: 50px;"></div>
 
+> - 3 *Homotherium* and 1 *Smilodon* mitochondrial genomes
 
 ## Phylogenetic analysis of sabretooth cats
 
