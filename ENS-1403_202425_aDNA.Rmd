@@ -339,23 +339,21 @@ include_graphics("./img/sabre_tree_NODATE.svg")
 
 ## Mutation and inheritance creates the tree {.columns-2}
 
-```{r, out.width = 300, fig.align='center'}
+
+```{r, out.height = 300, fig.align='center'}
 include_graphics("./img/dna-6560897.jpg")
 ```
 
-- Human mutation rate ~1.1×10^−8 per site per generation
+- Human mutation rate ~1.1×10<sup>−8</sup> per site per generation
 - Human: ~40 mutations in your 3.6 Gb genome
-- inherited by offspring
 
-<br>
 
-```{r, out.width = 300, fig.align='center'}
+```{r, out.height = 300, fig.align='center'}
 include_graphics("./img/inheritance_tree.svg")
 ```
 
 - DNA divergence and time are (approximately) linearly related
 - Branch lengths show the genetic divergence
-
 
 ## Molecular dating of sabretooth cats
 
